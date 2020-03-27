@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es5",
+    "module": "AMD",
+    "lib": ["dom", "es5", "es2015.promise"],
+    "forceConsistentCasingInFileNames": true,
+    "noImplicitAny": true,
+    "noImplicitReturns": true,
+    "noImplicitThis": true,
+    "skipLibCheck": true,
+    "sourceMap": true,
+    "strictNullChecks": true,
+    "baseUrl": ".",
+    "paths": {
+      "@fortawesome/*": ["node_modules/@fortawesome/*/index.d.ts", "node_modules/@fortawesome/*"]
+    }
+  },
+  "exclude": ["node_modules"]
+}

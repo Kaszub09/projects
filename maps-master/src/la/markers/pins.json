@@ -1,0 +1,257 @@
+[{
+    "name": "Piece of Heart",
+    "source": "section",
+    "displayOrder": 10,
+    "layers": [{
+        "minZoom": 3,
+        "icon": {
+            "url": "poh.png",
+            "width": 24,
+            "height": 20
+        },
+        "markers": [
+            {"coords":[-326,-1468],"id":"Heart01","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart01"},
+            {"coords":[-410,-898],"id":"Heart02","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart02"},
+            {"coords":[-95,-1279],"id":"Heart03","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart03"},
+            {"coords":[-95,-1222],"id":"Heart04","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart04"},
+            {"coords":[269,-697],"id":"Heart05","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart05"},
+            {"coords":[303,-75],"id":"Heart06","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart06"},
+            {"coords":[193,-1410],"id":"Heart07","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart07"},
+            {"coords":[-238,-894],"id":"Heart08","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart08"},
+            {"coords":[-151,-596],"id":"Heart09","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart09"},
+            {"coords":[-155,514],"id":"Heart10","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart10"},
+            {"coords":[606,-120],"id":"Heart11","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart11"},
+            {"coords":[-447,-97],"id":"Heart12","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart12"},
+            {"coords":[-128,-347],"id":"Heart13","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart13"},
+            {"coords":[-493,810],"id":"Heart14","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart14"},
+            {"coords":[-475,1498],"id":"Heart15","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart15"},
+            {"coords":[359,-129],"id":"Heart16","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart16"},
+            {"coords":[-410,-846],"id":"Heart17","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart17"},
+            {"coords":[465,1308],"id":"Heart18","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart18"},
+            {"coords":[-67,227],"id":"Heart19","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart19"},
+            {"coords":[-747,338],"id":"Heart20","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart20"},
+            {"coords":[-814,355],"id":"Heart21","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart21"},
+            {"coords":[-347,574],"id":"Heart22","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart22"},
+            {"coords":[-489,1165],"id":"Heart23","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart23"},
+            {"coords":[271,-1111],"id":"Heart24","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart24"},
+            {"coords":[-16,-517],"id":"Heart25","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart25"},
+            {"coords":[360,-75],"id":"Heart26","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart26"},
+            {"coords":[-125,1384],"id":"Heart27","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart27"},
+            {"coords":[182,901],"id":"Heart28","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart28"},
+            {"coords":[366,1425],"id":"Heart29","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart29"},
+            {"coords":[691,-122],"id":"Heart30","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart30"},
+            {"coords":[550,-1205],"id":"Heart31","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart31"},
+            {"coords":[785,-1485],"id":"Heart32","name":"Piece of Heart","link":"Link's Awakening Heart Pieces#Heart32"}
+        ]
+    }]
+}, {
+    "name": "Secret Seashell",
+    "source": "section",
+    "displayOrder": 11,
+    "layers": [{
+        "minZoom": 3,
+        "icon": {
+            "url": "shell.png",
+            "width": 16,
+            "height": 28
+        },
+        "markers": [
+            {"coords":[-300,-873],"id":"Shell01","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell01"},
+            {"coords":[-358,-898],"id":"Shell02","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell02"},
+            {"coords":[-18,-1298],"id":"Shell03","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell03"},
+            {"coords":[-304,-1258],"id":"Shell04","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell04"},
+            {"coords":[-605,-853],"id":"Shell05","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell05"},
+            {"coords":[-12,-655],"id":"Shell06","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell06"},
+            {"coords":[-139,693],"id":"Shell07","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell07"},
+            {"coords":[-425,295],"id":"Shell08","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell08"},
+            {"coords":[-333,80],"id":"Shell09","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell09"},
+            {"coords":[-737,255],"id":"Shell10","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell10"},
+            {"coords":[-232,-79],"id":"Shell11","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell11"},
+            {"coords":[167,-1092],"id":"Shell12","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell12"},
+            {"coords":[306,-1489],"id":"Shell13","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell13"},
+            {"coords":[448,-1210],"id":"Shell14","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell14"},
+            {"coords":[487,-475],"id":"Shell15","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell15"},
+            {"coords":[223,-42],"id":"Shell16","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell16"},
+            {"coords":[435,1011],"id":"Shell17","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell17"},
+            {"coords":[-850,-578],"id":"Shell18","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell18"},
+            {"coords":[-519,-321],"id":"Shell19","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell19"},
+            {"coords":[-300,-480],"id":"Shell20","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell20"},
+            {"coords":[-511,1466],"id":"Shell21","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell21"},
+            {"coords":[-784,1507],"id":"Shell22","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell22"},
+            {"coords":[-794,1171],"id":"Shell23","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell23"},
+            {"coords":[-610,474],"id":"Shell24","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell24"},
+            {"coords":[-355,1287],"id":"Shell25","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell25"},
+            {"coords":[-176,1426],"id":"Shell26","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell26"},
+            {"coords":[431,-71],"id":"Shell27","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell27"},
+            {"coords":[-303,-646],"id":"Shell28","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell28"},
+            {"coords":[-618,-1103],"id":"Shell29","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell29"},
+            {"coords":[-747,-1379],"id":"Shell30","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell30"},
+            {"coords":[291,119],"id":"Shell31","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell31"},
+            {"coords":[-786,-258],"id":"Shell32","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell32"},
+            {"coords":[-358,-844],"id":"Shell33","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell33"},
+            {"coords":[-795,98],"id":"Shell34","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell34"},
+            {"coords":[-511,1049],"id":"Shell35","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell35"},
+            {"coords":[-310,-259],"id":"Shell36","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell36"},
+            {"coords":[-513,1110],"id":"Shell37","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell37"},
+            {"coords":[-94,59],"id":"Shell38","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell38"},
+            {"coords":[149,1271],"id":"Shell39","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell39"},
+            {"coords":[366,1474],"id":"Shell40","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell40"},
+            {"coords":[68,873],"id":"Shell41","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell41"},
+            {"coords":[-39,-1276],"id":"Shell42","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell42"},
+            {"coords":[-39,-1223],"id":"Shell43","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell43"},
+            {"coords":[542,932],"id":"Shell44","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell44"},
+            {"coords":[695,383],"id":"Shell45","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell45"},
+            {"coords":[731,971],"id":"Shell46","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell46"},
+            {"coords":[599,1106],"id":"Shell47","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell47"},
+            {"coords":[699,1310],"id":"Shell48","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell48"},
+            {"coords":[703,-456],"id":"Shell49","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell49"},
+            {"coords":[646,-1031],"id":"Shell50","name":"Secret Seashell","link":"Link's Awakening Secret Seashells#Shell50"}
+        ]
+    }]
+}, {
+    "name": "Shop",
+    "source": "summary",
+    "displayOrder": 20,
+    "layers": [{
+        "minZoom": 2,
+        "icon": {
+            "url": "shop.png",
+            "width": 19,
+            "height": 25
+        },
+        "markers": [
+            {"coords":[-190,-894],"id":"Town Tool Shop","name":"Town Tool Shop","link":"Town Tool Shop"},
+            {"coords":[127,-498],"id":"Witch's Hut","name":"Witch's Hut","link":"Witch's Hut"},
+            {"coords":[320,-419],"id":"Crazy Tracy's Health Spa","name":"Crazy Tracy's Health Spa","link":"Crazy Tracy's Health Spa"}
+        ]
+    }]
+}, {
+    "name": "House",
+    "source": "summary",
+    "displayOrder": 21,
+    "layers": [{
+        "minZoom": 2,
+        "icon": {
+            "url": "house.png",
+            "width": 30,
+            "height": 20
+        },
+        "markers": [
+            {"coords":[-378,-874],"id":"Trendy Game","name":"Trendy Game","link":"Trendy Game"},
+            {"coords":[-360,-1508],"id":"Village Library","name":"Village Library","link":"Village Library"},
+            {"coords":[-62,-1250],"id":"Fishing Pond","name":"Fishing Pond","link":"Fishing Pond"},
+            {"coords":[401,-100],"id":"Dampé's Shack","name":"Dampé's Shack","link":"Dampé's Shack"},
+            {"coords":[-100,514],"id":"Seashell Mansion","name":"Seashell Mansion","link":"Seashell Mansion"},
+            {"coords":[400,1446],"id":"Raft Shop","name":"Raft Shop","link":"Raft Shop"}
+        ]
+    }]
+}, {
+    "name": "Telephone Booth",
+    "source": "summary",
+    "displayOrder": 22,
+    "layers": [{
+        "minZoom": 2,
+        "icon": {
+            "url": "hint.png",
+            "width": 28,
+            "height": 20
+        },
+        "markers": [
+            {"coords":[-377,-1072],"id":"Phone1","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[391,-1260],"id":"Phone2","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[-282,-715],"id":"Phone3","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[-133,118],"id":"Phone4","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[270,692],"id":"Phone5","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[-594,751],"id":"Phone6","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[-686,78],"id":"Phone7","name":"Telephone Booth","link":"Telephone Booth"},
+            {"coords":[689,-1250],"id":"Phone8","name":"Telephone Booth","link":"Telephone Booth"}
+        ]
+    }]
+}, {
+    "name": "Dungeon",
+    "source": "summary",
+    "displayOrder": 30,
+    "layers": [{
+        "icon": {
+            "url": "dungeon.png",
+            "width": 30,
+            "height": 21
+        },
+        "markers": [
+            {"coords":[-550,-853],"id":"Tail Cave","name":"Tail Cave","link":"Tail Cave"},
+            {"coords":[505,-714],"id":"Bottle Grotto","name":"Bottle Grotto","link":"Bottle Grotto"},
+            {"coords":[-364,-458],"id":"Key Cavern","name":"Key Cavern","link":"Key Cavern"},
+            {"coords":[516,691],"id":"Angler's Tunnel","name":"Angler's Tunnel","link":"Angler's Tunnel"},
+            {"coords":[-595,316],"id":"Catfish's Maw","name":"Catfish's Maw","link":"Catfish's Maw"},
+            {"coords":[-90,873],"id":"Face Shrine","name":"Face Shrine","link":"Face Shrine"},
+            {"coords":[746,1310],"id":"Eagle's Tower","name":"Eagle's Tower","link":"Eagle's Tower"},
+            {"coords":[703,-1477],"id":"Turtle Rock","name":"Turtle Rock","link":"Turtle Rock"},
+            {"coords":[877,-278],"id":"Wind Fish's Egg","name":"Wind Fish's Egg","link":"Wind Fish's Egg"},
+            {"coords":[75,-42],"id":"Color Dungeon","name":"Color Dungeon","link":"Color Dungeon"}
+        ]
+    }]
+}, {
+    "name": "Warp Point",
+    "source": "summary",
+    "displayOrder": 40,
+    "layers": [{
+        "icon": {
+            "url": "warp.png",
+            "width": 30,
+            "height": 30
+        },
+        "markers": [
+            {"coords":[-225,-458],"id":"Warp01","name":"Ukuku Prairie","link":"Ukuku Prairie"},
+            {"coords":[244,-512],"id":"Warp02","name":"Manbo's Pond","link":"Manbo's Pond"},
+            {"coords":[428,-159],"id":"Warp03","name":"Dampé's Shack","link":"Dampé's Shack"},
+            {"coords":[-135,614],"id":"Warp04","name":"Seashell Mansion","link":"Seashell Mansion"},
+            {"coords":[-709,930],"id":"Warp05","name":"Animal Village","link":"Animal Village"},
+            {"coords":[-728,-132],"id":"Warp06","name":"Martha's Bay","link":"Martha's Bay"},
+            {"coords":[442,930],"id":"Warp07","name":"Tal Tal Heights","link":"Tal Tal Heights"},
+            {"coords":[570,1530],"id":"Warp08","name":"Eastern Tal Tal Mountains","link":"Tal Tal Mountain Range"},
+            {"coords":[690,-860],"id":"Warp09","name":"Western Tal Tal Mountains","link":"Tal Tal Mountain Range"},
+            {"coords":[745,-1250],"id":"Warp10","name":"Turtle Rock","link":"Turtle Rock"}
+        ]
+    }]
+}, {
+    "name": "Treasure",
+    "source": "summary",
+    "displayOrder": 50,
+    "layers": [{
+        "minZoom": 4,
+        "icon": {
+            "url": "treasure.png",
+            "width": 20,
+            "height": 21
+        },
+        "markers": [
+            
+        ]
+    }]
+}, {
+    "name": "Regions",
+    "source": "summary",
+    "layers": [{
+        "minZoom": 2,
+        "markers": [
+            {"coords":[-270,-1147],"id":"Mabe Village","name":"Mabe Village","link":"Mabe Village"},
+            {"coords":[-760,-890],"id":"Toronbo Shores","name":"Toronbo Shores","link":"Toronbo Shores"},
+            {"coords":[125,-1175],"id":"Mysterious Forest","name":"Mysterious Forest","link":"Mysterious Forest"},
+            {"coords":[230,-590],"id":"Koholint Prairie","name":"Koholint Prairie","link":"Koholint Prairie"},
+            {"coords":[395,-870],"id":"Goponga Swamp","name":"Goponga Swamp","link":"Goponga Swamp"},
+            {"coords":[286,-65],"id":"Tabahl Wasteland","name":"Tabahl Wasteland","link":"Tabahl Wasteland"},
+            {"coords":[-10,-190],"id":"Cemetary","name":"Cemetary","link":"Cemetary"},
+            {"coords":[-227,-107],"id":"Ukuku Prairie","name":"Ukuku Prairie","link":"Ukuku Prairie"},
+            {"coords":[-533,-180],"id":"Pothole Field","name":"Pothole Field","link":"Pothole Field"},
+            {"coords":[142,340],"id":"Kanalet Castle","name":"Kanalet Castle","link":"Kanalet Castle"},
+            {"coords":[-766,316],"id":"Martha's Bay","name":"Martha's Bay","link":"Martha's Bay"},
+            {"coords":[-544,1043],"id":"Animal Village","name":"Animal Village","link":"Animal Village"},
+            {"coords":[-655,1380],"id":"Yarna Desert","name":"Yarna Desert","link":"Yarna Desert"},
+            {"coords":[-370,1210],"id":"Ancient Ruins","name":"Ancient Ruins","link":"Ancient Ruins"},
+            {"coords":[400,640],"id":"Tal Tal Heights","name":"Tal Tal Heights","link":"Tal Tal Heights"},
+            {"coords":[129,1200],"id":"Rapids Ride","name":"Rapids Ride","link":"Rapids Ride"},
+            {"coords":[641,680],"id":"Tal Tal Mountain Range","name":"Tal Tal Mountain Range","link":"Tal Tal Mountain Range"},
+            {"coords":[761,-279],"id":"Mt. Tamaranch","name":"Mt. Tamaranch","link":"Mt. Tamaranch"}
+        ]
+    }]
+}]
